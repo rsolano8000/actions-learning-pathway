@@ -10,3 +10,7 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+
+{
+  "extends": "next/core-web-vitals"
+}
